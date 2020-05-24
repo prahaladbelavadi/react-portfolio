@@ -12,14 +12,14 @@ const PROJECTS = [
   },
   {
     id: 2,
-    title: "My API",
+    title: "My Nodejs APIs",
     description: "Rest apis built from scratch",
     link: "github.com/prahaladbelavadi",
     image: project2,
   },
   {
     id: 3,
-    title: "Operating systems project",
+    title: "Another react project",
     description: "This would be really cool to build",
     link: "github.com/prahaladbelavadi",
     image: project3,
